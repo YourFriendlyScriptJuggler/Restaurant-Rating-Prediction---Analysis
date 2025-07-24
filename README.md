@@ -1,5 +1,6 @@
 # Restaurant-Rating-Prediction---Analysis
 This repository contains the files from a personal Machine Learning project I undertook to enhance my skills in regression and data analysis. I used a large restaurant dataset sourced from Kaggle, and my primary objective was to build a model that predicts restaurant ratings and extracts meaningful insights. My regression model achieved an accuracy of 98%, with further details provided below.
+
 Task 1
 Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
 
